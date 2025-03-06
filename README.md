@@ -7,13 +7,23 @@ Spring Boot<br>
 Spring Web MVC<br>
 Spring AI<br>
 Google Gemini API<br>
-Lombok<br><br>
+Lombok<br><br> 
+
+Steps to use the project :<br><br>
+1. First start your spring boot project.<br>
+
+
+
 
 ![image](https://github.com/user-attachments/assets/f4fa3129-8cda-48a9-9e5a-00318d38739e)
 <br><br>
 
+2. Make sure to turn on your extension.<br>
+
 
 ![image](https://github.com/user-attachments/assets/38287140-ae0d-4aeb-9ac7-f446335e5d90)<br><br>
+
+3. 
 
 ![image](https://github.com/user-attachments/assets/5b86bf39-060c-4c9d-ae94-64f460498611)<br><br>
 
