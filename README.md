@@ -23,11 +23,15 @@ Steps to use the project :<br><br>
 
 ![image](https://github.com/user-attachments/assets/38287140-ae0d-4aeb-9ac7-f446335e5d90)<br><br>
 
-3. 
+3. Open your Gmail Account.<br>
 
 ![image](https://github.com/user-attachments/assets/5b86bf39-060c-4c9d-ae94-64f460498611)<br><br>
 
+4. Click on AI Reply button.<br>
+
 ![image](https://github.com/user-attachments/assets/4aec7180-0262-4875-ad73-7b13e781b02c)<br><br>
+
+5.  A profesional AI reply will be generated accordingly.<br>
 
 ![image](https://github.com/user-attachments/assets/1d834545-007e-457d-ad73-730682f01d9c)<br><br>
 
