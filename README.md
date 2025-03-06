@@ -5,4 +5,6 @@ Java<br>
 JavaScript<br>
 Spring Boot<br>
 Spring AI<br>
+Spring Web MVC<br>
+Lombok<br>
 
